@@ -1,7 +1,7 @@
 package dataStructures;
 import java.util.*;
 public class Lab1 {
-
+//test
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		MyArrayLinearList l1 = new MyArrayLinearList();
@@ -10,8 +10,9 @@ public class Lab1 {
 		l1.add(2, Integer.valueOf(21));
 		l1.add(3, Integer.valueOf(9));
 		l1.add(4, Integer.valueOf(9));
-		l1.add(4, Integer.valueOf(8));
-		l1.add(4, Integer.valueOf(3));
+		l1.add(5, Integer.valueOf(8));
+		l1.add(6, Integer.valueOf(3));
+		l1.add(7, Integer.valueOf(12));
 		System.out.println("List l1:"+ l1.toString());
 		System.out.println("1 - Reverse ");
 		System.out.println("2 - Max ");
