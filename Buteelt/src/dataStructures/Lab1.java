@@ -5,8 +5,8 @@ public class Lab1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		MyArrayLinearList l1 = new MyArrayLinearList();
-		l1.add(0, Integer.valueOf(15));
-		l1.add(1, Integer.valueOf(3));
+		l1.add(0, Integer.valueOf(5));
+		l1.add(1, Integer.valueOf(13));
 		l1.add(2, Integer.valueOf(21));
 		l1.add(3, Integer.valueOf(9));
 		l1.add(4, Integer.valueOf(9));
