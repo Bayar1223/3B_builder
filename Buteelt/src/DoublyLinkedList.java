@@ -1,6 +1,5 @@
 /** doubly linked implementation of ExtendedLinearList */
 
-package dataStructures;
 
 import java.util.*;
 
